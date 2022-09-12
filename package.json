@@ -1,5 +1,5 @@
 {
-  "name": "apeswap-frontend",
+  "name": "frontendshop",
   "version": "0.1.12",
   "private": true,
   "scripts": {
@@ -114,5 +114,18 @@
   },
   "resolutions": {
     "react-error-overlay": "6.0.9"
-  }
+  },
+  "description": "The `apeswap-frontend` repo is the primary frontend repository for [ApeSwap.Finance](https://apeswap.finance), which is a leading DeFi Hub on BNB Chain, Polygon, and Ethereum focused on offering a premier trading experience.",
+  "main": "jest.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApeSwapFinance/apeswap-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApeSwapFinance/apeswap-frontend/issues"
+  },
+  "homepage": "https://github.com/ApeSwapFinance/apeswap-frontend#readme"
 }
